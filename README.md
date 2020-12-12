@@ -1,2 +1,2 @@
 # Art_Platform
-Created a Art platform for art work named 'Kala Kendra' using HTML, CSS, JavaScript
+Created a website named 'Kala Kendra', a platform for art lovers, using HTML, CSS, JavaScript
